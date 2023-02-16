@@ -1,0 +1,19 @@
+2023/02/16-14:08:52.549 1c0dc Reusing MANIFEST /home/agroboy/Documents/Apizap/PerfilWhatsapp/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/16-14:08:52.549 1c0dc Recovering log #63
+2023/02/16-14:08:52.595 1c0dc Reusing old log /home/agroboy/Documents/Apizap/PerfilWhatsapp/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000063.log 
+2023/02/16-14:09:09.632 1c0b7 Compacting 1@1 + 1@2 files
+2023/02/16-14:09:09.645 1c0b7 Level-0 table #69: started
+2023/02/16-14:09:09.664 1c0b7 Level-0 table #69: 1106595 bytes OK
+2023/02/16-14:09:09.666 1c0b7 Delete type=0 #63
+2023/02/16-14:09:09.680 1c0b7 Generated table #67@1: 19792 keys, 1105873 bytes
+2023/02/16-14:09:09.680 1c0b7 Compacted 1@1 + 1@2 files => 1105873 bytes
+2023/02/16-14:09:09.683 1c0b7 compacted to: files[ 1 0 1 0 0 0 0 ]
+2023/02/16-14:09:09.683 1c0b7 Delete type=2 #65
+2023/02/16-14:09:09.683 1c0b7 Delete type=2 #5
+2023/02/16-14:09:10.682 1c0dd Moved #69 to level-1 1106595 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2023/02/16-14:09:10.706 1c0dd Compacting 1@1 + 1@2 files
+2023/02/16-14:09:10.798 1c0dd Generated table #70@1: 36001 keys, 1600552 bytes
+2023/02/16-14:09:10.798 1c0dd Compacted 1@1 + 1@2 files => 1600552 bytes
+2023/02/16-14:09:10.801 1c0dd compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/02/16-14:09:10.801 1c0dd Delete type=2 #69
+2023/02/16-14:09:10.801 1c0dd Delete type=2 #67

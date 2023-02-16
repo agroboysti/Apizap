@@ -1,0 +1,10 @@
+2023/02/16-16:09:09.346 1e9ef Reusing MANIFEST /home/agroboy/Documents/Apizap/PerfilWhatsapp/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/16-16:09:09.346 1e9ef Recovering log #68
+2023/02/16-16:09:09.350 1e9ef Reusing old log /home/agroboy/Documents/Apizap/PerfilWhatsapp/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000068.log 
+2023/02/16-16:09:16.332 1e9ea Level-0 table #73: started
+2023/02/16-16:09:16.355 1e9ea Level-0 table #73: 1100289 bytes OK
+2023/02/16-16:09:16.358 1e9ea Delete type=0 #68
+2023/02/16-16:09:16.379 1e9ea Compacting 1@1 + 1@2 files
+2023/02/16-16:09:16.429 1e9ea Generated table #74@1: 44300 keys, 2007994 bytes
+2023/02/16-16:09:16.429 1e9ea Compacted 1@1 + 1@2 files => 2007994 bytes
+2023/02/16-16:09:16.432 1e9ea compacted to: files[ 0 0 1 0 0 0 0 ]
